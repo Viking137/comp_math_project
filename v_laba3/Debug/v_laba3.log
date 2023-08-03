@@ -1,0 +1,20 @@
+﻿  v_laba3.cpp
+D:\Joooon\v_laba3\v_laba3.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Joooon\v_laba3\v_laba3.cpp(141,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(142,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(143,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(144,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(146,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(146,76): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(146,98): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(146,126): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(146,148): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(146,170): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+D:\Joooon\v_laba3\v_laba3.cpp(170,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Joooon\v_laba3\v_laba3.cpp(206,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Joooon\v_laba3\v_laba3.cpp(207,43): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  v_laba3.vcxproj -> D:\Joooon\v_laba3\Debug\v_laba3.exe
